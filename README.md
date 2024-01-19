@@ -4,9 +4,8 @@
 - 👀 I’m interested in Full Stack Application Development
 - 🌱 I’m currently learning Backend Technologies
 - 💞️ I’m looking to collaborate on Frontend web projects
-- 📫 How to reach me
-<br>
-
+- 📫 How to reach me :
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/harshavardhan-s-b8454b258)
 - 😄 Pronouns: Coder
 - ⚡ Fun fact: I love Psychology too
 

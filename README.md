@@ -14,6 +14,9 @@
   <a href="https://harshavardhansu.me">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://dev.to/harsha_infinity">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
 </p>
 
 ## 👨‍💻 About Me

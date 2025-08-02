@@ -47,8 +47,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshavardhan2099&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhan2099&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhansu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhansu&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ## 🏆 LeetCode Stats
@@ -57,10 +57,10 @@
 
 ## 📈 Contribution Graph
 
-[![Harsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhan2099&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshavardhansu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshavardhan2099&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=harshavardhansu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
